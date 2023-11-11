@@ -31,3 +31,9 @@
     name = "GitHub"
     url = "https://github.com/ilovethensa"
     weight = 3
+
+[[social]]
+    identifier = "rss"
+    name = "RSS"
+    url = "https://theholytachanka.com/index.xml"
+    weight = 3
