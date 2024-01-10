@@ -17,6 +17,12 @@
     weight = 3
 
 [[main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services"
+    weight = 3
+
+[[main]]
     identifier = "donate"
     name = "Donate"
     url = "/donate"
