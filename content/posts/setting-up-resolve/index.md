@@ -1,7 +1,7 @@
 ---
 title: "Setting up Davinci Resolve on nixos with Rocm and OpenCL"
 draft: false
-date: 2024-02-27T11:06:29.000Z
+date: 2024-04-19T11:38:45.415442174Z
 description: "Guide on how to setup Davinci Resolve with Rocm and OpenCL"
 ---
 # Introduction
