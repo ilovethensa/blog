@@ -11,12 +11,6 @@
     weight = 2
 
 [[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 3
-
-[[main]]
     identifier = "services"
     name = "Services"
     url = "/services"
