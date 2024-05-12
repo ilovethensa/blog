@@ -15,11 +15,11 @@ enableEmoji = true
 
  # giscus is a comment system based on GitHub Discussions. see https://giscus.app
 [giscus]       
-    enable = false
-    repo = ""
-    repoId = ""
+    enable = true
+    repo = "ilovethensa/blog"
+    repoId = "R_kgDOKrbBnw"
     category = "Announcements"
-    categoryId = ""
+    categoryId = "DIC_kwDOKrbBn84CfTbO"
     # mapping = "pathname"  # comment value is the default value
     # strict = 0
     # reactionsEnabled = 1
@@ -27,4 +27,4 @@ enableEmoji = true
     # inputPosition = "top"
     # theme = "light"
     # lang = "zh-CN"
-    # lazyLoading = true
+    lazyLoading = true
