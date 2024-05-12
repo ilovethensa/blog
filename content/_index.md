@@ -10,4 +10,4 @@ I'm a professional shitposter hailing from Bulgaria, and I'm passionate about se
 
 ## Webrings
 
-- [←](https://fediring.net/previous?host=theholytachanka.com) [Fediring](https://fediring.net/) [→](https://fediring.net/next?host=theholytachanka.com)
+- [←](https://newdigitalera.org) [*nixRing](https://teethinvitro.neocities.org/webring/linuxring/) [→](https://tommi.space/)
