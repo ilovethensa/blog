@@ -6,3 +6,6 @@ I'm a professional shitposter hailing from Bulgaria, and I'm passionate about se
 
 >“Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say.”\
 ― Edward Snowden
+
+## Webrings
+- [←](https://fediring.net/previous?host=example.com) [Fediring](https://fediring.net/) [→](https://fediring.net/next?host=example.com)
