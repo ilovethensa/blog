@@ -8,4 +8,4 @@ I'm a professional shitposter hailing from Bulgaria, and I'm passionate about se
 ― Edward Snowden
 
 ## Webrings
-- [←](https://fediring.net/previous?host=example.com) [Fediring](https://fediring.net/) [→](https://fediring.net/next?host=example.com)
+- [←](https://fediring.net/previous?host=theholytachanka.com) [Fediring](https://fediring.net/) [→](https://fediring.net/next?host=theholytachanka.com)
