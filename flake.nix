@@ -19,7 +19,7 @@
           src = ./.;
           offlineCache = pkgs.fetchYarnDeps {
             yarnLock = src + "/yarn.lock";
-            hash = "....";
+            hash = "sha256-OrqJpGUQ6WnVTkcftZQbfUNNkB7vR3Uy/ZveUssxO24=";
           };
           nativeBuildInputs = [pkgs.hugo pkgs.nodejs pkgs.yarn];
           buildPhase = "yarn --offline && hugo build";
