@@ -1,7 +1,7 @@
 ---
 title: "Why I Chose NixOS (And Why I Eventually Moved On)"
 draft: false
-date: 2024-09-25T19:08:24.601Z
+date: 2024-09-25T16:50:16.178900107+00:00
 description: "Why is stopped using nixos"
 ---
 NixOS is probably the best Linux distro right now; its immutable, but it doesn't take power away from the user.
