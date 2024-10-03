@@ -8,4 +8,11 @@
     {{ if .Site.Params.disqusShortname }}
         {{ partial "single/components/comments/disqus" . }}
     {{ end }}
+
+    <script data-isso="//comments.theholytachanka.com/"
+        src="//comments.theholytachanka.com/js/embed.min.js"></script>
+
+    <section id="isso-thread">
+        <noscript>Javascript needs to be activated to view comments.</noscript>
+    </section>
 {{ end }}
