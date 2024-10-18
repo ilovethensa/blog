@@ -8,6 +8,10 @@ I'm a professional shitposter hailing from Bulgaria, and I'm passionate about se
 >
 > ― Edward Snowden
 
+## Info
+* [0.02g of CO2](https://www.websitecarbon.com/website/theholytachanka-com/) is produced when somebody visits this page.
+* Adheres to the [Web0 manifesto](https://web0.small-web.org/)
+
 ## Webrings
 
 - [←](https://newdigitalera.org) [*nixRing](https://teethinvitro.neocities.org/webring/linuxring/) [→](https://tommi.space/)
