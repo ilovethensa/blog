@@ -23,6 +23,12 @@
     weight = 3
 
 [[main]]
+    identifier = "wiki"
+    name = "Wiki"
+    url = "/wiki"
+    weight = 3
+
+[[main]]
     identifier = "donate"
     name = "Donate"
     url = "/donate"
